@@ -273,4 +273,3 @@ class BandwidthMonitor(simple_switch_13.SimpleSwitch13):
         return bytes * 8.0 / (BandwidthMonitor.QUERY_DURATION * 1000)
 # Disclaimer
 # Few Parts of the code are exracted from online resouces
-# Use at your own risk
